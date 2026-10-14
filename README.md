@@ -1,3 +1,18 @@
+# Household Finance
+
+A personal fork of [Sure](https://github.com/we-promise/sure) for managing our
+household's accounts, spending, budgets and shared financial goals.
+
+The working app name is **Household Finance**, with **Our Household** as the
+owner name. Both can be changed through environment variables. Start with the
+[household setup guide](docs/household.md) for branding and member invitations.
+
+This fork is based on Sure and the original Maybe Finance project. It is not
+affiliated with or endorsed by Maybe Finance Inc. or the Sure maintainers.
+The original [AGPLv3 license](LICENSE) is retained.
+
+## Upstream documentation
+
 [![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-blue)](https://deepwiki.com/we-promise/sure)
 [![View performance data on Skylight](https://badges.skylight.io/typical/s6PEZSKwcklL.svg)](https://oss.skylight.io/app/applications/s6PEZSKwcklL)
 [![Dosu](https://raw.githubusercontent.com/dosu-ai/assets/main/dosu-badge.svg)](https://app.dosu.dev/a72bdcfd-15f5-4edc-bd85-ea0daa6c3adc/ask)
